@@ -1,7 +1,5 @@
 # Shubham9706.github.io
-This is my first GitHub website 
 
-| Date | Resource person|Description|
-| ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+|Date|Resource person|Description|
+| ----------- | ----------- |-----------|
+|15-07-2006||Dr.Pyare Lal Garg|Speech|
