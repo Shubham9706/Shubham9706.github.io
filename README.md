@@ -2,4 +2,4 @@
 
 |Date|Resource person|Description|
 | ----------- | ----------- |-----------|
-|15-07-2006||Dr.Pyare Lal Garg|Speech|
+|15-07-2006|Dr.Pyare Lal Garg|Speech|
