@@ -1,6 +1,6 @@
 # Shubham9706.github.io
 
-## **Hi,This is Shubham Mishra and I am a student of Btech IT and this is my journey.**
+## **Hello,This is Shubham Mishra and I am a student of Btech IT and this is my journey.**
 
 
 
